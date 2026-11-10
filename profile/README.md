@@ -7,5 +7,3 @@ We build and operate products, systems and agent skills.
 | # | Project | Status |
 | :-- | :-- | :-- |
 | 01 | **Toki** | Coming soon |
-
-[buildbias.ai](https://buildbias.ai)
