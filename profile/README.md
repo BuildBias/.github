@@ -4,6 +4,6 @@ We build and operate products, systems and agent skills.
 
 ### Projects
 
-| # | Project | Status |
+| # | Project | Description |
 | :-- | :-- | :-- |
-| 01 | **Toki** | Coming soon |
+| 01 | [**Toki**](https://github.com/BuildBias/toki) | Token-efficient Claude Code plugin |
