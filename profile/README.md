@@ -7,3 +7,4 @@ We build and operate products, systems and agent skills.
 | # | Project | Description |
 | :-- | :-- | :-- |
 | 01 | [**Toki**](https://github.com/BuildBias/toki) | Token-efficient Claude Code plugin |
+| 02 | [**Puddle**](https://puddle.rip) | Team insights for Claude Code and Codex |
